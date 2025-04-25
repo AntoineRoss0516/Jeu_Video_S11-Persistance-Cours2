@@ -773,6 +773,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   indexSceneACharger: 2
+  saveClick: {fileID: 668454137}
 --- !u!1001 &678324084
 PrefabInstance:
   m_ObjectHideFlags: 0
